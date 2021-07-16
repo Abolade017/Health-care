@@ -1,6 +1,6 @@
 <template>
 <div>
-    <div class="flex  space-x-56 items-center py-6 ">
+    <div class="flex  space-x-32 items-center py-6 ">
         <div class="text-3xl font-bold text-blue-900 ml-10">MARCEL</div>
         <div class="flex space-x-10 items-center text-gray-600 text-lg">
             <router-link to="">Home</router-link>
