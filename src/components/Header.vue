@@ -14,10 +14,10 @@
                 </div>
             </router-link>
         </div>
-        <div class="flex items-center space-x-6 ">
+        <!-- <div class="flex items-center space-x-6 ">
             <button class="bg-blue-900 text-white focus:outline-none rounded-md text-center py-2 px-4">SignUp</button>
             <button class="bg-red-600 text-white focus:outline-none rounded-md text-center py-2 px-4">SignIn</button>
-        </div>
+        </div> -->
         </div>
         <ProfessionalCare />
     </div>
